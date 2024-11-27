@@ -21,3 +21,12 @@ Setup
 Download the Script: Save the provided fitpeo_automation.py file to your local system.
 
 WebDriver Configuration: The script automatically manages the ChromeDriver setup using webdriver-manager. No manual setup is required.
+
+Features
+Navigate to the FitPeo homepage and Revenue Calculator page.
+Adjust the slider to specific values.
+Update the text field and validate its effect on the slider.
+Select checkboxes for CPT codes.
+Validate Total Recurring Reimbursement value and header.
+
+
